@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+## Hello!! My name is sangyoo.
+### I am a university student.
+### I am Korean.
+### I’m currently learning how to use GitHub at university.
 <!--
 **sangyoo-maker/sangyoo-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
