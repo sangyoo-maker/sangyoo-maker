@@ -1,8 +1,13 @@
-## Hi there 👋
-## Hello!! My name is sangyoo.
-### I am a university student.
-### I am Korean.
-### I’m currently learning how to use GitHub at university.
+## Hi there !!👋(안녕하세요!)
+### Hello!! My name is sangyoo.(저의 이름은 상유입니다.)
+### I am a university student.(저는 대학생입니다.)
+### I am Korean. (저는 한국인입니다.)
+
+## What I'm currently learning (현재 내가 배우고 있는 것)
+### I’m currently learning how to use GitHub at university.(나는 현재 학교에서 깃허브 사용법을 배우고 있습니다.)
+
+## programming language learned(배운 프로그래밍 언어)
+### I learned c language, c++, and python(저는 c언어,c++,파이썬을 배웠습니)
 <!--
 **sangyoo-maker/sangyoo-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
